@@ -101,7 +101,7 @@ obtained using `id()`.
 ```
 
 Note: It is almost always better to use `==` for checking objects.  The behavior
-of `is` is often unexpected:
+of `is` is often unexpected: 
 
 ```python
 >>> a = [1,2,3]
